@@ -37,7 +37,7 @@ Principais benefícios:
 
 Você pode testar todos os endpoints interativamente através da documentação Swagger hospedada online:  
 
-[🌐 Acessar Documentação Interativa (Swagger)](https://nfeasy.infinityfree.me/)
+[🌐 Acessar Documentação Interativa (Swagger)](https://nfeasy.infinityfree.me)
 
 > Aqui você encontrará exemplos de requisições, respostas e a descrição completa de cada endpoint.
 
