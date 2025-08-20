@@ -1,4 +1,5 @@
-# 📄 Emissor NF-e – Microserviço de Emissão de Notas Fiscais
+# 📄 Emissor NF-e 1.0 
+## Microserviço de Emissão de Notas Fiscais Eletrônicas
 
 Bem-vindo à documentação pública do **Emissor NF-e 1.0**, um microserviço leve e robusto para emissão de Notas Fiscais Eletrônicas (NF-e) 4.0 – modelo 55.  
 Este repositório contém **somente a documentação pública**, enquanto o código do microserviço permanece privado e seguro.
